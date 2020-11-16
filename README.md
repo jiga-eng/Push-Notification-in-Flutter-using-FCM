@@ -1,1 +1,1 @@
-#To get started refer this article http://jiga.dev/
+#To get started refer to this article http://jiga.dev/
